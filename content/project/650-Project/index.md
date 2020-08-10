@@ -7,10 +7,10 @@ tags:
 date: "2020-04-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-# external_link: 
+external_link: https://github.com/mihirp98/RGBD-Tracking
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: 
   focal_point: Smart
 
 url_pdf: https://drive.google.com/file/d/1b8lR-a_KZf0da9_BtquukbtzG-q_iAgt/view?usp=sharing
