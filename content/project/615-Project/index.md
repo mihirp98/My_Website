@@ -6,10 +6,10 @@ tags:
 date: "2020-05-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-# external_link: 
+external_link: https://github.com/mihirp98/f110_ros
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: 
   focal_point: Smart
 
 url_pdf: https://drive.google.com/file/d/1r8lEVZ8ub0HjIbZW70GhVhwp7E8Bt6sB/view?usp=sharing

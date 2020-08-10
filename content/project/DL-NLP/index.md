@@ -6,7 +6,7 @@ tags:
 date: "2020-02-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-# external_link:
+external_link: https://github.com/mihirp98/DL-NLP
 
 image:
   caption: 

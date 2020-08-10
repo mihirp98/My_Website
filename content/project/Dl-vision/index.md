@@ -7,9 +7,9 @@ tags:
 date: "2020-03-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-# external_link: 
+external_link: https://github.com/mihirp98/DL-CV_Generative
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: 
   focal_point: Smart
 ---

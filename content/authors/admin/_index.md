@@ -68,12 +68,12 @@ user_groups:
 #- Visitors
 ---
 
-Currently, a graduate student in the Robotics program of the [GRASP Lab](https://www.grasp.upenn.edu/) at Penn. I am particularly excited about the potential impact of Robotics and Artificial Intelligence together in significantly improving the quality of our daily lives and I look forward to solve some of the most challenging problems in this area. My [interests](#projects) lie in the fields of planning, learning, vision and perception for Robotic systems. 
+Currently, a graduate student in the Robotics program of the [GRASP Lab](https://www.grasp.upenn.edu/) at Penn. An aspiring Roboticist, I am particularly excited about the potential impact of Robotics and Artificial Intelligence together in significantly improving the quality of our daily lives and I look forward to solve some of the most challenging problems in this area. My [interests](#projects) lie in the fields of planning, learning, vision and perception for Robotic systems. 
 
 Recently, under the guidance of [Prof. Michael Posa](https://dair.seas.upenn.edu/people/), I have been working on leveraging the powerful inductive bias of Deep Learning to solve the challenging nature of frictional contacts. During my time at Penn so far, I have also worked on developing a full autonomy stack for F110 autonomous race cars and designing deep learning architectures for mainstream computer vision tasks such as classification, detection, tracking and segmentation.
 
 Previously, I completed my Bachelor's in Mechanical Engineering from [National Institute of Technology Karnataka, Surathkal](https://www.nitk.ac.in/) where I worked on motion-planning for multi-agent quadcopter systems and probabilistic robotic frameworks like Kalman Filters and SLAM. I have spent time as a Research Intern in the Robotics Lab at [IIT Madras](https://ed.iitm.ac.in/~robotics_lab/index.html), advised by Prof. T. Asokan. 
 
-Always open to talk about anything related to Robotics, Soccer, Space Exploration and everything that requires out-of-the-box thinking!
+Always open to talk about anything related to Robotics, Soccer, Space Exploration and anything that requires out-of-the-box thinking!
 
 ## 🤖 🚀 :soccer: 🏕️ 🎮
